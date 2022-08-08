@@ -1,1 +1,26 @@
-aaaah ueuehr
+TOKEN DE ACESSO PESSOAL
+-No GitHub -> Configurações -> Configurações do Desenvolvedor -> Token de Acesso Pessoal -> Gerar Token -> Ticar Opção Repositório Enter
+*Após criar o token, copia-lo em local seguro, pois o github não irá mostrar novamente esta chave de segurança, caso perca, terá que criar novo token.
+
+----------------------
+
+Para fazer o COMMIT:
+1º 
+Git add * Enter
+Git commit -m "Comentário sobre o commit realizado" Enter
+
+2º
+Git Status (para saber o status do commit)
+
+3º
+Git remot add origin Https:LINKDOREPOSITORIOONLINE Enter
+
+*Para saber se deu certo:
+Git remot -v Enter
+-Irá mostrar as listas de repositórios remotos cadastrados.
+
+4ºGit push origin master Enter
+-Para empurrar do repositório local para o remoto
+
+5ºGit pull Enter
+-Para puxar repositório remoto para corrigir conflitos.
