@@ -64,5 +64,10 @@ CTRL W - PARA FECHAR ABA
 
 CTRL SHFIT W - PARA FECHAR TODAS AS ABAS
 
+---------
+
+Para abrir um projeto já existente no Eclipe
+ > Abrir eclipse > Import projects > selecionar opção Existing projects > Brownse > Procurar a pasta aonde o projeto esta armazenado.
+
 
 
