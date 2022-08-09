@@ -1,0 +1,38 @@
+Atalhos IDES-Eclipse:
+
+CTRL+3 = P/ Mudar de perspectiva
+
+
+Para mudar o TEMA:
+Window > Preferences > General > Appearance > Dark (Para tela ficar escura ou Ligth p/ ficar clara)
+
+Para alterar tamanho de fonte do editor:
+Window > Preferences > Gereral > Appearence > Color and fonts > Selecionar a perspectiva JAVA > Java editor Text font > EDIT (E colocar a fonte e tamanho que achar melhor)
+
+Para criar outra classe: Clicar no pacote criado > CTRL N > Class > Criar o nome > Finish
+
+Para renomear um pacote: F2
+
+Para expandir a tela: CTRL M
+
+Para aumentar e Diminuir a fonte: CTRL + e CTRL -
+
+CTRL 3 > digitar CONSTRU - Aparecera opções, selecionar: Generate Constructor using Fields
+
+CTRL 3 > Generate getters and stters > select all (para selecionar tudo, os getters e os setters)
+
+CTRL 3 > Generate hashCode() and equals() > select all 
+
+CTRL 3 > Generate toString > selecionar somente Fields
+
+Para movar um bloco de lugar, selecionar e clicar em ALT e seta para cima, ou para baixo, para onde quiser mover.
+
+CTRL SHIFT F - Para tudo ficar organizado, identação 
+
+CTRL SHIFT O - Para importar um objeto de outro pacote. (Se eu criar a class no mesmo arquivo que estou digitando, não há necessidade de fazer a importação)
+
+Quando crio um pack, cada ponto (.) significa que estou criando uma pasta, exemplo:
+com.dio.modelo
+é uma pasta chamada com, e dentro dela tem uma pasta chamada dio, e dentro dela tem uma pasta chamada modelo.
+
+Os arquivos .class ficam dentro da pasta bin
