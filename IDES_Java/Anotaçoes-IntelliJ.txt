@@ -1,0 +1,44 @@
+NEW PROJECT > 
+Após criar o projeto, clicar em src e pressionar ALT INSERT, para poder criar o package e a class.
+Clicar no package, ALT INTERT, e selecionar JAVA CLASS para criar a class.
+
+
+ctrl shift F10
+
+Selecionar o bloco - CTRL Shift / para comentar  ou descomentar o bloco selecionado.
+
+CTRL / para comentar linha por linha
+
+
+CTRL ALT O - para apagar um import que não esta sendo usado
+
+CTRL y para apagar linha 
+
+//////////////
+Clicar no programa Shift F6 para renomear 
+
+/////////////////
+CTRL Alt L para organizar 
+//////////////
+
+CTRL D multiplica a linha
+
+//////////
+
+CRTL Shift seta para cima ou pra baixo
+
+
+www.basef.com.br - documentação da IntelligJ
+
+
+////////////
+
+Versionamento:
+clicar em VCS > Enable version > escolher git > já  criou repositório 
+
+CTRL tab - para comitar
+clicar em commit and push - definir nome - URL colocar link do repositório remoto.
+fazer login via git hub e fazer o push
+
+
+
