@@ -36,3 +36,33 @@ com.dio.modelo
 é uma pasta chamada com, e dentro dela tem uma pasta chamada dio, e dentro dela tem uma pasta chamada modelo.
 
 Os arquivos .class ficam dentro da pasta bin
+
+
+-----
+Para fazer o versionamento atráves do eclipse:
+Clica com o direito no projeto > Team > share project > use or create repository (para cirar um repositório.git)
+ finish
+
+Para comitar, clicar com o direito no projeto > team > commit
+Digitar o comentário do commit
+clicar em commit and push > na tela que abrir colar o URL do repositório remoto que ira subir, colocar usuario, senha e avançar, depois clicar em push, usuario senha, e  login.
+
+
+Selecionar algo clicar em CTRL ALT Seta para baixo, será duplicado o mesmo conteudo na linha de baixo, seta para cima se quiser duplicar pra cima.
+
+-----
+
+Debug
+
+CTRL SHIFT O - para importar o scanner 
+
+CTRL 1 - para criar variaveis
+
+CTRL SHIFT T > para achar uma palavra dentro do programa
+
+CTRL W - PARA FECHAR ABA
+
+CTRL SHFIT W - PARA FECHAR TODAS AS ABAS
+
+
+
