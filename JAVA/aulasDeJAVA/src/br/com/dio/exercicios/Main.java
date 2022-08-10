@@ -12,7 +12,7 @@ public class Main {
         int &1a;
         não se deve usar _ nem $ no nome das variáveis, devido as boas práticas*/
 
-        final int j = 10; /* variavel constante, não é possivel mudar este valor, devido ter usado final*/
+        final int J = 10; /* variavel constante, não é possivel mudar este valor, devido ter usado final*/
         int uahdsushdauhas; /*não é uma boa prática, por mais que possa usar letras e numeros para nomear a variavel, devo deixa-la de modo mais claro e objetivo e expressivo.*/
 
         /* int a%mr; não posso usar % na nomeação de uma váriavel*/
@@ -20,7 +20,11 @@ public class Main {
         int quantidadeDeProduto; /*boa prática*/
         int QuantidadeDeProduto; /*Não é uma noa prática iniciar com letra maiscula*/
 
-        
+        final int QUANTIDADE_PRODUTO; /*Caso a const seja definida como final, nomea-la em maisuculo e a separação deverá ser feita com _.*/
+
+        System.out.println(i);
+
+
 
     }
 }

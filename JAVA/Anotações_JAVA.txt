@@ -37,3 +37,56 @@ Sempre começar com letra minuscula;
 Nomes Expressivos
 Notação camelo
 Quando constante(final) maiúscula e separada por "_";
+
+________________________
+
+TIPOS DE DADOS:
+"São os valores e operações que as variáveis podem assumir e sofrer, respectivamente."
+
+Tipificação:
+Estática(forte) vs Dinâmico (fraco) : Estastica obriga a definir o tipo da váriavel no momento da criação da mesma. A dinâmica é o oposto.
+ 
+Primitivo vs Composto:
+primitivo são numeros, palavras
+Composto tem haver a dados orientados a objetos
+
+
+Opções de tipos:
+Textual
+Numeral
+Lógico
+Objeto
+
+
+Exemplo de tipos numerais:
+byte: -128 até 127 byte b =15;
+short: -32.768 até 32.767 short s = -15785;
+int: -2.147.483.648 até 2.147.483.647 int i = 8515785;
+long: -9.223.372.036.854.775.808 até 9.223.372.036.854.775.807 long l = 5938515785L;
+float: +-3.40282347E+38F float f= 3.14...(f);
+double: +-1.79769313486231570E+308 double d 3.14...(d);
+
+Exemplo textual char c = '\u0084'; ou char c ='T';
+String: um tipo "especial" String s = "T";
+*Para caracter usar aspas simples, para string usar aspas duplas.
+
+Exemplos lógico:
+boolean: true e false > boolean s = false;
+
+_-_-_-_-_-_-_-__-_-_-_-_-_-_-__-_-_-_-_-_-_-_
+
+
+Valor default dos dados:
+tipo de dado= byte valor default=0
+short - 0
+int -0
+long - 0L
+float - 0.0f
+double - 0.0d
+char '\u0000'
+String (e objetos) - null
+boolean - false
+
+_-_-_-_-_-_-_-__-_-_-_-_-_-_-__-_-_-_-_-_-_-_
+
+
